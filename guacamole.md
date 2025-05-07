@@ -1,8 +1,8 @@
 # Guacamole
 
 ## Ingredients 
-*avocado 
-*salt
-*lime
+* avocado 
+* salt
+* lime
 
 ## Instructions
